@@ -43,5 +43,41 @@
     "category": "List",
     "banner": "",
     "interstital": ""
+  },
+  {
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Json/Class12/Accountancy.json",
+    "image": "https://i.pinimg.com/564x/e5/40/f1/e540f1fb4baada87005a2e88fca1a514.jpg",
+    "title": "Class 12 Accountancy",
+    "description": "All the notes about Accountancy",
+    "category": "List",
+    "banner": "",
+    "interstital": ""
+  },
+  {
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Json/Class12/Biologys.json",
+    "image": "https://i.pinimg.com/564x/4c/2f/5d/4c2f5dd4d4760bd89316c4e94c6ffe21.jpg",
+    "title": "Class 12 Biology",
+    "description": "All the notes about Biology",
+    "category": "List",
+    "banner": "",
+    "interstital": ""
+  },
+  {
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Json/Class12/Chemistry.json",
+    "image": "https://i.pinimg.com/564x/16/f6/99/16f699e6ef8d018741e72e7f3480ffeb.jpg",
+    "title": "Class 12 Chemistry",
+    "description": "All the notes about Chemistry",
+    "category": "List",
+    "banner": "",
+    "interstital": ""
+  },
+  {
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Json/Class12/Economics.json",
+    "image": "https://i.pinimg.com/564x/72/ea/e5/72eae5878925f77dc62c3935995a4f9c.jpg",
+    "title": "Class 12 Economics",
+    "description": "All the notes about Economics",
+    "category": "List",
+    "banner": "",
+    "interstital": ""
   }
 ]

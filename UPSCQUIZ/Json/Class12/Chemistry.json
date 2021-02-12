@@ -1,11 +1,20 @@
 [
   {
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "NCERT-Class-12-Chemistry-Part-1",
+    "description": "Part 1",
+    "image": "https://i.pinimg.com/564x/16/f6/99/16f699e6ef8d018741e72e7f3480ffeb.jpg",
     "category": "Pdf",
     "interstital":"",
     "banner": "",
-    "link": ""
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Pdf/Class12/NCERT-Class-12-Chemistry-Part-1.pdf"
+  },
+  {
+    "title": "NCERT-Class-12-Chemistry-Part-2",
+    "description": "Part 2",
+    "image": "https://i.pinimg.com/564x/16/f6/99/16f699e6ef8d018741e72e7f3480ffeb.jpg",
+    "category": "Pdf",
+    "interstital":"",
+    "banner": "",
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Pdf/Class12/NCERT-Class-12-Chemistry-Part-2.pdf"
   }
 ]
