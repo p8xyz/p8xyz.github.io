@@ -1,11 +1,20 @@
 [
   {
-    "title": "",
-    "description": "",
-    "image": "",
+    "title": "NCERT-Class-12-Accountancy-Part-1",
+    "description": "Part 1",
+    "image": "https://i.pinimg.com/564x/e5/40/f1/e540f1fb4baada87005a2e88fca1a514.jpg",
     "category": "Pdf",
     "interstital":"",
     "banner": "",
-    "link": ""
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Pdf/Class12/NCERT-Class-12-Accountancy-Part-1.pdf"
+  },
+  {
+    "title": "NCERT-Class-12-Accountancy-Part-2",
+    "description": "Part 2",
+    "image": "https://i.pinimg.com/564x/d6/ee/10/d6ee101404cd869c7f1ad328d309649c.jpg",
+    "category": "Pdf",
+    "interstital":"",
+    "banner": "",
+    "link": "https://p8xyz.github.io/UPSCQUIZ/Pdf/Class12/NCERT-Class-12-Accountancy-Part-2.pdf"
   }
 ]
